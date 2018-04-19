@@ -4,4 +4,4 @@ console.log("Name:")
 console.log("cash")
  
 console.log("Height:")
-console.log(parseInt(height) + 1 )
+console.log(height + 1)
